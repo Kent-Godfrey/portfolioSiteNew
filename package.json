@@ -3,10 +3,18 @@
     "version": "1.0.0",
     "description": "Kent Godfrey's portfolio site.",
     "main": "script.js",
-    "dependencies": {
-        
+    "dependencies": {},
+    "devDependencies": {
+        "@babel/core": "^7.0.1",
+        "@babel/preset-env": "^7.0.0",
+        "babel-core": "^6.26.3",
+        "babel-preset-env": "^1.7.0",
+        "gulp": "^3.9.1",
+        "gulp-babel": "^7.0.1",
+        "gulp-html-replace": "^1.6.2",
+        "gulp-imagemin": "^4.1.0",
+        "gulp-uglify": "^3.0.1"
     },
-    "devDependencies": {},
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
