@@ -225,7 +225,12 @@ a {
 }
 
 #skills>ul {
-    flex: 2;
+    flex: 1;
+}
+
+#skillsImage{
+    flex:3;
+    flex-shrink: 0;
 }
 
 .listHeading {
