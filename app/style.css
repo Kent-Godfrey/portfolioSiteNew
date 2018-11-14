@@ -308,7 +308,7 @@ a {
 
 #contactList {
     flex: 1;
-    color: #95449a;
+    color: #f2f2f2;
     text-decoration: none;
 }
 
@@ -320,7 +320,7 @@ a {
 
 #contactList li img {
     width: 1.250rem;
-    margin: 0.313rem;
+    margin: 1.313rem;
     vertical-align: middle;
 }
 
